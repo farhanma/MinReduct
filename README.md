@@ -1,5 +1,5 @@
 
-An algorithm for reduct cardinality minimization
+### An algorithm for reduct cardinality minimization
 
 This algorithm transforms the initial table to a decision table of a special kind, simplify this table, and use a dynamic programming algorithm to finish the construction of an optimal reduct
 
