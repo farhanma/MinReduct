@@ -1,5 +1,5 @@
 
-### MinReduct -- A C++ framework that implements an efficient algorithm for reduct cardinality minimization
+### MinReduct: C++ framework that implements an efficient algorithm for reduct cardinality minimization
 
 This algorithm transforms the initial decision table to a decision table of a special kind, simplify this table, and use a dynamic programming algorithm to finish the construction of an optimal reduct.
 
